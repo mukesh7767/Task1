@@ -1,1 +1,2 @@
 This is file x2
+Modification in x2 from branch-1
